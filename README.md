@@ -1,6 +1,6 @@
 # Memory Cards / Flash Cards
 Simple app built following along a project based class that includes 20 vanilla JavaScript classes taught by Brad Traversy on Udemy.
-I realized I was not leaving a link to Brad's actual class on Udemy, so you can find that here 
+I realized I was not leaving a link to Brad's actual class from Udemy in my past 2 projects, so you can find that here. 
 
 > https://www.udemy.com/share/102yzoBkocc1ZTQXw=/
 
